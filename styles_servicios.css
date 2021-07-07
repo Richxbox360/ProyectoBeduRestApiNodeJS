@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    font-family: 'Cairo', sans-serif;
+}
+
+.contact_icons {
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.contact-info {
+    background-color: #508ae6;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    height: 50px;
+}
+
+.contact-info p {
+    padding: 10px;
+    margin-right: 40px;
+}
+
+#logo_menu {
+    width: 100px;
+}
+
+.items_menu {
+    display: flex;
+    justify-content: center;
+}
+.navbar-nav li {
+    margin: 0 20px;
+}
+
+.banner-intro-servicios {
+    background-color: rgb(22, 64, 155);
+    color: white;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    font-weight: 900;
+    font-size: 70px;
+}
+
+.banner-intro-servicios p {
+    margin-left: 150px;
+}
+
+.banner-oferta-servicios{
+    width: 75%;
+    margin: 70px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.banner-titulo-servicios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.banner-titulo-servicios p{
+    color: rgb(14, 35, 153);
+    font-weight: 600;
+    font-size: 15px;
+    margin-left: -155px;
+}
+
+.banner-titulo-servicios h6{
+    font-weight: 800;
+    font-size: 35px;
+    width: 50%;
+}
+
+.banner-texto-servicios {
+    display: flex;
+    margin: 25px 0 0 90px;
+}
+
+.rechteSeite-oferta-servicios {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.grid-nummer {
+    color: rgb(14, 35, 153);
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.grid-titel {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.grid-text {
+    color: rgb(90, 90, 90);
+    margin-top: 5px;
+}
+
+.grid-square {
+    width: 70%;
+    height: 50%;
+    margin: 20px;
+}
